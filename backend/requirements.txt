@@ -1,0 +1,7 @@
+mistralai==0.0.8
+pymongo==4.3.3
+gradio==4.10.0
+gradio_client==0.7.3
+langchain==0.0.348
+langchain-core==0.0.12
+pandas==2.0.3
